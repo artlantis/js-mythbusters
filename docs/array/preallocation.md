@@ -2,7 +2,7 @@
 
 ## Initialize value
 
-If you want to preallocate an array with a initial value, you can use [`Array.from()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/from):
+If you want to preallocate an array with a initial value, you can use [`Array.from()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from):
 
 ```js
 const n = 5
